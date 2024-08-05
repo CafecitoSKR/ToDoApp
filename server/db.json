@@ -1,0 +1,130 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "title": "Hacer ejercicio",
+      "description": "Hacer 30 minutos de ejercicio en el gimnasio",
+      "status": 2,
+      "due_date": "2024-08-01"
+    },
+    {
+      "id": 5,
+      "title": "Llamar a mamá",
+      "description": "Llamar a mamá para ver cómo está",
+      "status": 1,
+      "due_date": "2024-08-01"
+    },
+    {
+      "id": 6,
+      "title": "Comprar comestibles",
+      "description": "Comprar leche, pan y huevos",
+      "status": 1,
+      "due_date": "2024-08-02"
+    },
+    {
+      "id": 8,
+      "title": "Cita con el doctor",
+      "description": "Ir a la cita médica a las 10:00 AM",
+      "status": 2,
+      "due_date": "2024-08-01"
+    },
+    {
+      "id": 10,
+      "title": "Estudiar para el examen",
+      "description": "Estudiar los capítulos 5 y 6 del libro de matemáticas",
+      "status": 1,
+      "due_date": "2024-08-04"
+    },
+    {
+      "id": 12,
+      "title": "Leer un libro",
+      "description": "Leer al menos 20 páginas del libro actual",
+      "status": 1,
+      "due_date": "2024-08-03"
+    },
+    {
+      "id": 13,
+      "title": "Hacer una caminata",
+      "description": "Hacer una caminata de una hora en el parque",
+      "status": 1,
+      "due_date": "2024-08-02"
+    },
+    {
+      "id": 14,
+      "title": "Preparar cena",
+      "description": "Cocinar una cena saludable para la familia",
+      "status": 1,
+      "due_date": "2024-08-05"
+    },
+    {
+      "id": 15,
+      "title": "Escribir en el diario",
+      "description": "Escribir las experiencias del día",
+      "status": 1,
+      "due_date": "2024-08-04"
+    },
+    {
+      "id": 16,
+      "title": "Organizar el escritorio",
+      "description": "Limpiar y ordenar el escritorio de trabajo",
+      "status": 1,
+      "due_date": "2024-08-06"
+    },
+    {
+      "id": 17,
+      "title": "Hacer la colada",
+      "description": "Lavar la ropa sucia",
+      "status": 0,
+      "due_date": "2024-08-07"
+    },
+    {
+      "id": 18,
+      "title": "Pagar las facturas",
+      "description": "Pagar las facturas de servicios públicos",
+      "status": 0,
+      "due_date": "2024-08-08"
+    },
+    {
+      "id": 19,
+      "title": "Aprender una nueva receta",
+      "description": "Practicar una receta nueva para la cena",
+      "status": 1,
+      "due_date": "2024-08-06"
+    },
+    {
+      "id": 20,
+      "title": "Preparar una presentación",
+      "description": "Crear y ensayar una presentación para la reunión del trabajo",
+      "status": 1,
+      "due_date": "2024-08-07"
+    },
+    {
+      "id": 21,
+      "title": "Actualizar el CV",
+      "description": "Agregar la experiencia laboral reciente al CV",
+      "status": 1,
+      "due_date": "2024-08-08"
+    },
+    {
+      "id": 22,
+      "title": "Enviar correos pendientes",
+      "description": "Responder y enviar correos electrónicos pendientes",
+      "status": 1,
+      "due_date": "2024-08-05"
+    },
+    {
+      "id": 23,
+      "title": "Revisar informes",
+      "description": "Revisar y aprobar los informes mensuales del equipo",
+      "status": 0,
+      "due_date": "2024-08-06"
+    },
+    {
+      "id": 24,
+      "title": "Hacer una videollamada con amigos",
+      "description": "Organizar una videollamada para ponerse al día con amigos",
+      "status": 0,
+      "due_date": "2024-08-07"
+    }
+  ]
+}
